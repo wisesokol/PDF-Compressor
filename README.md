@@ -3,7 +3,7 @@
 **English** | [Русский](#русский)
 
 ---
-
+![GUI interface](Img/01.png)
 # English
 
 A Python application with a graphical user interface for compressing PDF files by reducing image quality and optimizing the PDF structure.
