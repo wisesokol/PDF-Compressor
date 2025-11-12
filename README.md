@@ -1,10 +1,12 @@
 # PDF Compressor
 
-**English** | [Русский](#русский)
+[English](#english) | [Русский](#русский)
 
 ---
 ![GUI interface](Img/01.png)
-# English
+
+<a name="english"></a>
+## English
 
 A Python application with a graphical user interface for compressing PDF files by reducing image quality and optimizing the PDF structure.
 
